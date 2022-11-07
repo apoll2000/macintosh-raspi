@@ -5,7 +5,7 @@ This project documents how I built an 8-inch touch display connected to a Raspbe
   <img src="images/macintosh_main.jpeg" alt="Macintosh image" width="400"/>
 </p>
 
-'''stl
+```stl
 solid Mesh
   facet normal 0.000000 -0.028045 0.999607
     outer loop
@@ -44416,4 +44416,4 @@ solid Mesh
     endloop
   endfacet
 endsolid Mesh
-'''
+```
